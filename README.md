@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/aseelban_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faseelban_&screen_name=aseelban_)
 
 
-- ✨ I’m currently learning CMS headless, dive deep into React world 🤓
+- ✨ I’m currently learning CMS headless, dive deep into ReactJS world 🏄‍
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
 
