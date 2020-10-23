@@ -5,7 +5,6 @@
 
 
 - ✨ I’m currently learning CMS headless, dive deep into ReactJS world 🏄‍
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
 
 ### Connect with me:
