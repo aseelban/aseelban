@@ -4,9 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/aseelban_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faseelban_&screen_name=aseelban_)
 
 
-- ✨ I’m currently learning CMS headless, dive deep into ReactJS world 🏄‍
-- 🥅 2020 Goals: Contribute to Open Source projects
-
 ### Connect with me:
 
 [<img align="left" alt="aseelban.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
